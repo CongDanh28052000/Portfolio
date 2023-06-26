@@ -106,7 +106,7 @@ body {
 #introduce {
     height: 100%;
     padding-top: 50%;
-    background: url("/assets/css/img/bg_image_1.jpg") top center/ cover no-repeat;
+    background: url("/assets/css/img/bgimg1.jpg") top center/ cover no-repeat;
     position: relative;
 }
 
@@ -477,8 +477,6 @@ body {
     background-color: #EF3724;
     box-shadow: 0 0 0 2px #EF3724;
 }
-
-
 
 
 /* project */
